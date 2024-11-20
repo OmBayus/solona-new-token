@@ -1,6 +1,6 @@
 {
-  "name": "Example Token",
-  "symbol": "EXMPL",
-  "description": "Example token from Solana Making a Token guide.",
+  "name": "Deneme Token",
+  "symbol": "DNM",
+  "description": "This is the Deneme Token. One of the best tokens in the world.",
   "image": "https://raw.githubusercontent.com/OmBayus/solona-new-token/refs/heads/master/token.jpeg"
 }
